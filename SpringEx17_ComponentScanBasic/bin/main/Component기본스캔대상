@@ -1,0 +1,10 @@
+
+**
+@Component 애노테이션을 붙인 클래스만 스캔 대상에 포함되는 것은 아니다
+
+@Component
+@Controller
+@Service
+@Repository
+@Aspect
+@Configuration

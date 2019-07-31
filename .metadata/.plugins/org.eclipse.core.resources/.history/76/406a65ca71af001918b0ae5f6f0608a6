@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SpringEx25_MVC01">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <property name="context-root" value="SpringEx25_MVC01"/>
+        <property name="java-output-path" value="/SpringEx25_MVC01/bin/default"/>
+    </wb-module>
+</project-modules>

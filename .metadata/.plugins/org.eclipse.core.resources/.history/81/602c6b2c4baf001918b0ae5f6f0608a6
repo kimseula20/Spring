@@ -1,0 +1,14 @@
+package main;
+
+import java.io.IOException;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class MainForSpring {
+
+	private static AnnotationConfigApplicationContext ctx = null;
+
+	public static void main(String[] args) throws IOException {
+
+	}
+}

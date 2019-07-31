@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Jul 31 11:08:00 KST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\kimseula\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-web\\5.1.8.RELEASE\\6d7134733f05133d82440172c5f6f9fe001db7ed\\spring-web-5.1.8.RELEASE.jar=WEB-INF/lib/spring-web-5.1.8.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\kimseula\\.gradle\\caches\\modules-2\\files-2.1\\org.springframework\\spring-web\\5.1.8.RELEASE\\6d7134733f05133d82440172c5f6f9fe001db7ed\\spring-web-5.1.8.RELEASE.jar=WEB-INF/lib/spring-web-5.1.8.RELEASE.jar

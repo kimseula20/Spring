@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="project_location" value="C:\Users\kimseula\Desktop\kimseula\_9_Spring\eclipse_Workspace\SpringEx25_MVC01"/>
+		<item key="use_default_location" value="true"/>
+	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="C:\Users\kimseula\Desktop\kimseula\_9_Spring\eclipse_Workspace\SpringEx03_DI"/>
+	</section>
+</section>
